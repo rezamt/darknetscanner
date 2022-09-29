@@ -1,4 +1,4 @@
-name: Deploy PWA Starter to GitHub Pages
+name: Deploy Darknet Scanner to GitHub Pages
 
 on:
   workflow_dispatch:
